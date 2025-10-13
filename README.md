@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://i.imgur.com/3Jb5k2L.png)
+![Banner]([https://i.imgur.com/3Jb5k2L.png](https://media1.thehungryjpeg.com/thumbs2/ori_3751743_yt4lc4kgmuyzeahmryiofe9k39x9b1cz4b2qsuzv_coding-system-minimal-infographic-banner-vector.jpg))
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#4f46e5;">Mateen Ali</span></h1>
 
@@ -40,7 +40,7 @@
 - 🔹 Keep learning new technologies and frameworks  
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=mateenali&label=Profile%20views&color=blue)
 ### 📫 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
@@ -52,6 +52,6 @@
 </p>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=mateenali&label=Profile%20views&color=blue)
+
 
 

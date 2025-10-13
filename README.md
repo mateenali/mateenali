@@ -52,6 +52,6 @@
 </p>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=mateenali&label=Profile%20views&color=blue)
 
 

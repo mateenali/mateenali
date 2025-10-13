@@ -1,7 +1,7 @@
 <!-- Banner -->
 ![Banner](https://i.imgur.com/3Jb5k2L.png)
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#4f46e5;">Brain</span></h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#4f46e5;">Mateen Ali</span></h1>
 
 <p align="center">
   🌐 <strong>Front-End Web Developer</strong> | 🚀 <strong>Learning Flutter & JavaScript</strong><br>
@@ -46,11 +46,12 @@
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:yourname@email.com" target="_blank">
+  <a href="mailto:mateenali170@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=blue)
 
-✨ *“Code. Create. Innovate.”* ✨
+

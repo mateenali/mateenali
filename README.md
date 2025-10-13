@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner]([https://i.imgur.com/3Jb5k2L.png](https://media1.thehungryjpeg.com/thumbs2/ori_3751743_yt4lc4kgmuyzeahmryiofe9k39x9b1cz4b2qsuzv_coding-system-minimal-infographic-banner-vector.jpg))
+![Banner](https://media1.thehungryjpeg.com/thumbs2/ori_3751743_yt4lc4kgmuyzeahmryiofe9k39x9b1cz4b2qsuzv_coding-system-minimal-infographic-banner-vector.jpg)
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#4f46e5;">Mateen Ali</span></h1>
 

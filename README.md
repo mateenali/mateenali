@@ -1,5 +1,5 @@
 ![Header](https://your-image-link.com/banner.png)
-# 👋 Hi, I'm Brain!
+# 👋 Hi, I'm Mateen Ali!
 I'm a passionate developer who loves building apps that make life easier.
 
 ## 🚀 What I Do

@@ -1,16 +1,17 @@
-## Hi there 👋
+![Header](https://your-image-link.com/banner.png)
+# 👋 Hi, I'm Brain!
+I'm a passionate developer who loves building apps that make life easier.
 
-<!--
-**mateenali/mateenali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 What I Do
+- 🧠 Learning: Flutter & Firebase
+- 💼 Projects: DeliverKaro (Grocery App), POS System, ERP System
+- 🌐 Portfolio: [mywebsite.com](https://mywebsite.com)
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+![Dart](https://img.shields.io/badge/-Dart-blue?logo=dart)
+![Firebase](https://img.shields.io/badge/-Firebase-orange?logo=firebase)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+- [LinkedIn](https://linkedin.com/in/yourusername)
+- [Twitter](https://twitter.com/yourhandle)

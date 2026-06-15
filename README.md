@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 I'm a **Web Developer** with a love for clean code and modern UI design.  
+- 👨‍💻 I'm a **Flutter Mobile app Developer** with a love for clean code and modern UI design.  
 - 🌱 Currently learning **JavaScript**, **Dart**, and **Flutter** to become a full-stack mobile + web developer.  
 - 🎨 I enjoy turning ideas into interactive and visually appealing websites.  
 - 💭 Always exploring new tools, frameworks, and ways to improve my coding skills.  

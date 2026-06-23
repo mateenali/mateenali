@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Mateen Ali</h1>
 
 <h3 align="center">📱 Flutter Mobile App Developer | 🌐 Frontend Web Developer</h3>
@@ -21,8 +20,6 @@ Building modern mobile applications and responsive web experiences with clean ar
 - 🎯 Passionate about solving real-world business problems through technology
 - ⚡ Always learning, building, and improving
 - 🤝 Open to freelance projects and collaborations
-
----
 
 ## 🛠️ Tech Stack
 
@@ -50,51 +47,25 @@ Building modern mobile applications and responsive web experiences with clean ar
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
 </p>
 
----
-
 ## 💡 What I Build
 
-### 📱 Mobile Applications
-
-- Business Management Apps
-- ERP Systems
-- POS Applications
-- E-Commerce Apps
-- Booking & Appointment Apps
-- Custom Business Solutions
-
-### 🌐 Web Applications
-
-- Admin Dashboards
-- SaaS Platforms
-- Business Portals
-- Company Websites
-- Management Systems
-
----
+- 📱 Flutter Mobile Applications
+- 🛒 E-Commerce Apps
+- 🏢 ERP Systems
+- 💳 POS Solutions
+- 📅 Booking Systems
+- 🌐 Business Websites
+- ⚙️ Custom Business Software
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 🔥 Current Focus
-
-- Flutter Mobile Applications
-- SaaS Product Development
-- Business Automation Systems
-- ERP & POS Solutions
-- Modern Frontend Development
-
----
 
 ## 📫 Connect With Me
 
@@ -108,13 +79,6 @@ Building modern mobile applications and responsive web experiences with clean ar
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=4F46E5&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 </p>
-
-<p align="center">
-  <b>💡 Building software that helps businesses grow and operate smarter.</b>
-</p>
-```
